@@ -34,5 +34,3 @@ A desktop-based AI chatbot application developed using Python and Tkinter GUI fo
 ➡️ Supervisor
 
 ✔️ Ma’am Harmen Memon
-
-Ma’am Harmain Memon
